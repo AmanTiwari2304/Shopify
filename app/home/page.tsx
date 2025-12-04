@@ -68,8 +68,8 @@ export default function HomePage() {
               {/* <Link href="#" className="hover:text-indigo-600">Home</Link> */}
               <Link href="/login" className="hover:text-indigo-600">Login</Link>
               <Link href="/signup" className="hover:text-indigo-600">Signup</Link>
-              <Link href="/admin" className="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-indigo-600 text-indigo-600 hover:bg-indigo-50">
-                Be an Admin
+              <Link href="/alreadyAnAdmin" className="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-indigo-600 text-indigo-600 hover:bg-indigo-50">
+                Admin
               </Link>
             </nav>
 
